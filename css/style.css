@@ -1,0 +1,15 @@
+table,th,td {
+  width: 1000px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  }
+  tr:nth-child(3)
+{
+  background-color:#F5BCBA;
+  color:white;
+}
+tr:nth-child(4)
+{
+  background-color:#74B9FF;
+  color:white;
+}
